@@ -1,2 +1,1 @@
-# hello-world
-Basic
+Hello everyone, My name is smov 
